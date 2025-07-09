@@ -24,10 +24,10 @@ Este es mi portafolio personal creado con [Astro](https://astro.build/), un fram
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tuusuario/tu-repo.git
+git clone [https://github.com/tuusuario/tu-repo.git](https://github.com/NotExer/Portafolio)
 
 # Entrar al directorio
-cd tu-repo
+cd Portafolio
 
 # Instalar dependencias
 npm install
